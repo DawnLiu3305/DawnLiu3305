@@ -22,38 +22,10 @@
 
 ---
 
-## 🚀 Current Project
-
-### 🤖 [Ally.ai](https://github.com/yourusername/ally.ai)
-> **Building intelligent AI assistants with optimization at its core**
-
-- 🎯 **Goal**: Next-generation AI assistant powered by operations research
-- 🔥 **Tech**: React + Node.js + Python + MILP solvers
-- 📊 **Status**: In active development
-- 💡 **Focus**: Combining RL with constraint optimization
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ally.ai?style=social)](https://github.com/yourusername/ally.ai)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DawnLiu3305&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnLiu3305&layout=compact&theme=radical&langs_count=8" />
-  <!-- 基础统计卡片 -->
-![Dawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DawnLiu3305&show_icons=true&theme=radical&count_private=true)
-
-<!-- 语言分布卡片 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnLiu3305&layout=compact&theme=radical)
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="jiayaoliu875@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourusername">
@@ -84,7 +56,9 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DawnLiu3305&color=blueviolet" alt="Profile views" />
   <br/>
+  <sub>Made with ❤️ and lots of ☕</sub>
+</div>
   <sub>Made with ❤️ and lots of ☕</sub>
 </div>
