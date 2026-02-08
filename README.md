@@ -41,6 +41,11 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DawnLiu3305&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnLiu3305&layout=compact&theme=radical&langs_count=8" />
+  <!-- 基础统计卡片 -->
+![Dawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DawnLiu3305&show_icons=true&theme=radical&count_private=true)
+
+<!-- 语言分布卡片 -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnLiu3305&layout=compact&theme=radical)
 </div>
 
 ---
