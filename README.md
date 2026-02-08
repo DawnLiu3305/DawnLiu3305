@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DawnLiu3305&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawnLiu3305&layout=compact&theme=radical&langs_count=8" />
 </div>
 
 ---
@@ -48,7 +48,7 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="jiayaoliu875@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourusername">
